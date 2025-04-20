@@ -1,11 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 20 14:56:12 2025
-
-@author: LAB
-"""
 
 streamlit
 tensorflow
-numpy
 pillow
+numpy
